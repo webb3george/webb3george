@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a blockchain developer specializing in **Ether
 
 ### 🔷 **Smart Contract Development**
 - **Language:** Solidity
-- **Standards:** ERC-20, ERC-721, ERC-1155, ERC-4626, EIP-2535, EIP-712, and other Ethereum standards
-- **Development:** Hardhat, Foundry, Truffle (legacy projects)
-- **Testing:** Foundry (Forge), Hardhat (Waffle, Chai), Solidity coverage analysis
-- **Security:** Static analysis with Slither, manual code review, known attack patterns prevention
+- **Standards:** ERC-20, ERC-721, ERC-1155, EIP-712, and other Ethereum standards
+- **Development:** Foundry
+- **Testing:** Foundry (Forge)
+- **Security:** Analysis with Semgrep, manual code review, known attack patterns prevention
 
 ### 🧪 **Testing with Foundry**
 - Writing comprehensive unit and integration tests with **Forge**
@@ -19,40 +19,13 @@ Welcome to my GitHub profile! I'm a blockchain developer specializing in **Ether
 - Custom cheatcodes for complex scenarios
 
 ### 🔐 **Security & Best Practices**
-- Implementation of security patterns (Checks-Effects-Interactions, Pull over Push)
 - Reentrancy, overflow/underflow protection
-- Oracle integration patterns (Chainlink)
 - Access control (Ownable, Role-based)
 - Upgradeability patterns (Transparent Proxy, UUPS)
 
-### 🌐 **Web3 & Frontend**
-- **Libraries:** Ethers.js, Web3.js, Viem
-- **Frameworks:** React + Web3, Next.js
-- **Wallets:** MetaMask, WalletConnect integration
-- **Indexing:** The Graph, Subgraph development
-
 ### 📦 **DevOps & Infrastructure**
-- **Deployment:** Scripts for multi-network deployment
 - **Verification:** Contract verification on Etherscan, Blockscout
 - **CI/CD:** GitHub Actions for testing and deployment
-- **Monitoring:** Tenderly, OpenZeppelin Defender
-- **Nodes:** Experience with Infura, Alchemy, QuickNode
-
-## 📁 Project Structure
-
-My typical smart contract project structure:
-
-```
-project/
-├── src/
-│   ├── contracts/     # Main contracts
-│   ├── interfaces/    # Interfaces and libraries
-│   └── test/         # Foundry tests
-├── script/           # Deployment scripts
-├── test/            # Additional tests (if using Hardhat)
-├── .github/         # CI/CD workflows
-└── .env.example     # Environment variables
-```
 
 ## 🚀 Featured Projects
 
@@ -68,12 +41,8 @@ Description of another significant project. Highlight unique aspects like gas op
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
-
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Telegram:** @yourusername
-- **Email:** your.email@example.com
+- **Telegram:** [@george_webb3](https://t.me/george_webb3)
+- **Email:** webb3.george@gmail.com
 
 ## 🤝 Open for Collaboration
 
@@ -84,14 +53,5 @@ I'm always interested in:
 - Security auditing and code reviews
 - Research and development in ZK-proofs, Layer 2 solutions
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Article Title 1](https://yourblog.com/article1)
-- [Article Title 2](https://yourblog.com/article2)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 *"Smart contracts are immutable — so should be our commitment to security and excellence."*
-
-⭐ **Star** my repositories if you find them useful!
