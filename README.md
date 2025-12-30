@@ -1,6 +1,6 @@
-# 👋 Hello, I'm a Solidity Developer
+# 👋 Hello, I'm [George](https://t.me/george_webb3)
 
-Welcome to my GitHub profile! I'm a blockchain developer specializing in **Ethereum smart contract development** and **decentralized application (dApp)** architecture.
+A blockchain developer specializing in **Ethereum smart contract development** and **decentralized application (dApp)** architecture.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -26,19 +26,6 @@ Welcome to my GitHub profile! I'm a blockchain developer specializing in **Ether
 ### 📦 **DevOps & Infrastructure**
 - **Verification:** Contract verification on Etherscan, Blockscout
 - **CI/CD:** GitHub Actions for testing and deployment
-
-## 🚀 Featured Projects
-
-### [Project Name 1]
-Brief description of the project, its purpose, and key features. Mention any interesting technical challenges solved.
-
-### [Project Name 2]
-Description of another significant project. Highlight unique aspects like gas optimization techniques or novel architectures.
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 - **Telegram:** [@george_webb3](https://t.me/george_webb3)
