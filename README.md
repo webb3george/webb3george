@@ -38,7 +38,4 @@ I'm always interested in:
 - NFT projects with unique mechanics
 - Blockchain infrastructure tools
 - Security auditing and code reviews
-- Research and development in ZK-proofs, Layer 2 solutions
-
-
-*"Smart contracts are immutable — so should be our commitment to security and excellence."*
+- Research and development in Layer 2 solutions
