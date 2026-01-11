@@ -24,7 +24,7 @@ A blockchain developer specializing in **Ethereum smart contract development** a
 - Upgradeability patterns (Transparent Proxy, UUPS)
 
 ### 📦 **DevOps & Infrastructure**
-- **Verification:** Contract verification on Etherscan, Blockscout
+- **Verification:** Contract verification on Etherscan
 - **CI/CD:** GitHub Actions for testing and deployment
 
 ## 📫 Let's Connect
