@@ -6,15 +6,15 @@ A blockchain developer specializing in **Ethereum smart contract development** a
 
 ### 🔷 **Smart Contract Development**
 - **Language:** Solidity
-- **Standards:** ERC-20, ERC-721, ERC-1155, EIP-712, and other Ethereum standards
+- **Standards:** ERC-20, ERC-721, ERC-1155, ERC-4626, EIP-712, and other Ethereum standards
 - **Development:** Foundry
-- **Testing:** Foundry (Forge)
+- **Testing:** Foundry (forge, cast, anvil)
 - **Security:** Analysis with Semgrep, manual code review, known attack patterns prevention
 
 ### 🧪 **Testing with Foundry**
 - Writing comprehensive unit and integration tests with **Forge**
 - Fuzz testing and invariant testing
-- Gas optimization analysis and benchmarking
+- Gas optimization analysis
 - Fork testing on mainnet/testnets
 - Custom cheatcodes for complex scenarios
 
